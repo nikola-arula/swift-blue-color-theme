@@ -20,7 +20,7 @@ All notable changes to the "swift-blue-color-theme" extension will be documented
 
 -   Changed minimum required engine version.
 
-## [1.0.3] - 23.10.2023.
+## [1.1.0] - 23.10.2023.
 
 ### Added
 
@@ -31,3 +31,9 @@ All notable changes to the "swift-blue-color-theme" extension will be documented
 
 -   `editor.background` property
 -   `input.border` property
+
+## [1.1.1] - 23.10.2023.
+
+### Fixed
+
+-   Changelog versioning mistake
