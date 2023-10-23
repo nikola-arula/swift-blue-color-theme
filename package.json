@@ -2,7 +2,7 @@
     "name": "swift-blue-color-theme",
     "displayName": "Swift Blue Color Theme",
     "description": "Color theme for VS Code based on XCode theme for swift code with a blue background.",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.60.0"
     },
