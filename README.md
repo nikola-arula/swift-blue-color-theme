@@ -4,7 +4,7 @@ Color theme for VS Code based on XCode theme for swift code with a blue backgrou
 
 ### Installation
 
-You can install this theme through [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=nikola-arula.swift-blue-color-theme&ssr=false#qna)
+You can install this theme through [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=nikola-arula.swift-blue-color-theme)
 
 ### Activation
 

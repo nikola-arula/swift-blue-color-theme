@@ -37,3 +37,9 @@ All notable changes to the "swift-blue-color-theme" extension will be documented
 ### Fixed
 
 -   Changelog versioning mistake
+
+## [1.1.2] - 23.10.2023.
+
+### Fixed
+
+-   README link to extension marketplace page.
