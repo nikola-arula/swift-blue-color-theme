@@ -21,5 +21,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/nikola-arula/swift-blue-color-theme.git"
-    }
+    },
+    "publisher": "nikola-arula"
 }
