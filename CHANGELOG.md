@@ -2,8 +2,32 @@
 
 All notable changes to the "swift-blue-color-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
-- Initial release
+## [0.0.1] - 23.10.2023.
+
+-   Initial release.
+
+## [1.0.0] - 23.10.2023.
+
+-   Version set to 1.0.0
+
+## [1.0.1] - 23.10.2023.
+
+-   Added VS Code Marketplace icon.
+
+## [1.0.2] - 23.10.2023.
+
+-   Changed minimum required engine version.
+
+## [1.0.3] - 23.10.2023.
+
+### Added
+
+-   Changelog versioning
+-   ReadME contents
+
+### Changed
+
+-   `editor.background` property
+-   `input.border` property
