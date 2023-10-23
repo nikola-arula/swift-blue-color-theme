@@ -1,0 +1,25 @@
+{
+    "name": "swift-blue-color-theme",
+    "displayName": "Swift Blue Color Theme",
+    "description": "Color theme for VS Code based on XCode theme for swift code with a blue background.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.83.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Swift Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Swift Blue-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nikola-arula/swift-blue-color-theme.git"
+    }
+}
