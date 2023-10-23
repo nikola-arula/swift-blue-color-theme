@@ -1,16 +1,31 @@
-# swift-blue-color-theme README
+# Swift Blue Color Theme
 
-## Working with Markdown
+Color theme for VS Code based on XCode theme for swift code with a blue background. Developed and maintained by Nikola Arula. Public repository available [here](https://github.com/nikola-arula/swift-blue-color-theme). Feel free to report any issues or make recommendations.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+You can install this theme through [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=nikola-arula.swift-blue-color-theme&ssr=false#qna)
 
-## For more information
+### Activation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Launch Quick Open:
+    - MacOS: `Cmd` + `Shift` + `P`
+    - Windows/Linux: `Ctrl` + `Shift` + `P`
+2. Type `theme`
+3. From the list choose `Preferences: Color Theme`
+4. Select `Swift Blue`
 
-**Enjoy!**
+### Custom override
+
+You can override theme color settings by specifying custom rules applied to Swift Blue. This can be done in the `settings.json` file.
+
+**Example**
+
+```
+...settings.json
+
+"workbench.colorCustomizations": {
+    "editor.background": "#000000",
+    "panel.background": "#000000"
+}
+```
