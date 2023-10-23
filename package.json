@@ -4,7 +4,7 @@
     "description": "Color theme for VS Code based on XCode theme for swift code with a blue background.",
     "version": "1.0.1",
     "engines": {
-        "vscode": "^1.83.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
